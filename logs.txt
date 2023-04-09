@@ -1,0 +1,67 @@
+commit 902845210d457e32e3d06362c4daaa583ed94712 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:32:55 2023 +0200
+
+      Fix method sumEvenNumbers
+
+commit bfc0f193e3b5fc7c4bce56a8ed1befe9f58a8ea4
+Merge: 06a26fe 3559a7f
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:38:00 2023 +0200
+
+    Merge branch 'bug2'
+    # Please enter a commit message to explain why this merge is necessary,
+    # especially if it merges an updated upstream into a topic branch.
+    #
+    # Lines starting with '#' will be ignored, and an empty message aborts
+    # the commit.
+
+commit 3559a7f1030efa1d69721c7d04569a030c89a2f2 (origin/bug2, bug2)
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:30:47 2023 +0200
+
+      Fix wrong condition in filterOddNumbers
+
+commit 06a26fe2d65748f62135d5a35ba9eb2de17627fa (origin/bug1, bug1)
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:29:17 2023 +0200
+
+     Fix wrong loop for reading
+
+commit bf515880870bef499c252b896b680ceed2b200ca
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:27:18 2023 +0200
+
+      Add java class
+
+commit 60fefe83093db909ff9cfbaa56a0e0dfd79a21f1
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:23:37 2023 +0200
+
+    Initial commit
+(END)
+commit 3559a7f1030efa1d69721c7d04569a030c89a2f2 (origin/bug2, bug2)
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:30:47 2023 +0200
+
+      Fix wrong condition in filterOddNumbers
+
+commit 06a26fe2d65748f62135d5a35ba9eb2de17627fa (origin/bug1, bug1)
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:29:17 2023 +0200
+
+     Fix wrong loop for reading
+
+commit bf515880870bef499c252b896b680ceed2b200ca
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:27:18 2023 +0200
+
+      Add java class
+
+commit 60fefe83093db909ff9cfbaa56a0e0dfd79a21f1
+Author: vladicevskav <veronikavladichevska03@gmail.com>
+Date:   Sun Apr 9 20:23:37 2023 +0200
+
+    Initial commit
+(END)
+

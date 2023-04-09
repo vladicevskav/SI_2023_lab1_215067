@@ -1,0 +1,36 @@
+1./
+2./
+3./
+4.Се користи командата git init
+5.Се користи командата git remote add origin https://github.com/vladicevskav/SI_2023_lab1_215067.git
+6.Cо командата echo “Veronika_Vladichevska_215067” > README.md се креира README.md датотека. СО наредбата git add . ja ставаме датотеката спремна за commit.
+ Commit со порака Initial commit се прави со наредбата git commit -m "Initial commit"
+7.Датотеката SILab1.java ја додадов со командата echo>> SILab1.java потоа оваа датотека ја отворив во
+notepad и ја вметнав бараната содржина откако ја направив промената во датотеката со командата git
+add . спремна е за commit. Commit-от го направив со командата git commit -m "Add java class"
+8.Се користи наредбата git push --all
+9.Се отвараат три нови гранки со следниве команди git branch bug1, git branch bug2 и
+git branch bug3
+10.За да се префрли гранката на bug1 се користи командата git checkout bug1
+11.Отварам Notepad правам измена па зачувувам. Со командата git add . ја ставам датотеката на stage И со наредбата git commit -m "Fix wrong loop for reading" го комитнувам 
+12.Гранката bug2 се префрла со командата git checkout bug2
+13.Отварам Notepad правам измена во функцијата filterOddNumbers. Со командата git add . ја ставам датотеката на stage и со наредбата git commit -m "Fix wrong condition in
+filterOddNumbers" правам commit на фајлот SILab1.java
+14.Гранката bug3 се префрла со командата git checkout bug3
+15.Отварам Notepad правам измени за функцијата sumEvenNumbers во датотеката SILab1.java. ја ставам датотеката на stage со командата git add . и на крај правам commit со наредбата 
+git commit -m 
+16.Сите гранки со оддалечениот репозиториум се синхронизираат со наредбата git push --all
+17.На гранката master се префрламе со наредбата git checkout master
+18.Гранката bug1 кон гранката master се спојува со наредбата git merge bug1
+19.Сите гранки со оддалечениот репозиториум се синхронизираат со наредбата git push --all
+20.Гранката bug2 кон гранката master се спојува со наредбата git merge bug2
+21.Сите гранки со оддалечениот репозиториум се синхронизираат со наредбата git push –all
+22.На гранката bug3 се префрламе со наредбата git checkout bug3
+23.rebase спрема гранката master правиме со наредбата git rebase master
+24.Се префрлуваме на гранката master со наредбата git checkout master
+25.Со командата git merge bug3 ја спојуваме гранката bug3 кон master
+26.git push --all --force со оваа команда се синхронизираат сите гранки
+27.Со командата echo >> logs.txt се креира logs датотека во која со командата git log излезот од командата се копира во фајлот. 
+Со командата echo >> 215067.txt се создава 215067 датотеката во која водиме евиденција за сите команди и чекори направени. 
+Потоа со командата git add . ја ставам датотеката на stage и со командата git commit -m "Final commit" се комитнува.
+28.Со командата git push --all ги синхронизираме сите гранки 
